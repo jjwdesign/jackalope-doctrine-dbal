@@ -1,5 +1,5 @@
 {
-    "name": "jackalope/jackalope-doctrine-dbal",
+    "name": "jjwdesign/jackalope-doctrine-dbal",
     "type": "library",
     "description": "Jackalope Transport library for Doctrine DBAL",
     "keywords": ["transport implementation", "doctrine-dbal", "phpcr"],
